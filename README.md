@@ -1,29 +1,52 @@
 # example
 
-Full stack lập trình ứng dụng Web bằng Python phần 1: Giới thiệu
+Full stack lập trình ứng dụng Web bằng Python 
+
+Phần 1: Giới thiệu
 Đây là phần đầu tiên trong series hướng dẫn lập trình ứng dụng Web gồm 20 phần.
 
 Phần 1: Giới thiệu (đang xem)
+
 Phần 2: Kiến trúc ứng dụng và stack
+
 Phần 3: Web server asynchronous với asyncio và Sanic
+
 Phần 4: Authentication bằng JWT với Sanic, chức năng login
+
 Phần 5: Database MongoDB với Motor Driver
+
 Phần 6: Refactor cấu trúc ứng dụng
+
 Phần 6: Giao tiếp với backend qua AMQP: service crawl data và download ảnh
+
 Phần 7: Machine learning và service nhận dạng ảnh với Keras
+
 Phần 8: Machine learning và service nhận dạng ảnh với Keras (tiếp)
+
 Phần 9: Websocket và chức năng nhận dạng ảnh gửi lên client
+
 Phần 10: Deploy service với Docker và Docker-Compose
+
 Phần 11: Sử dụng GraphQL thay cho REST, một API cho mọi client
+
 Phần 12: ReactJS: Giới thiệu cơ bản ReactJS và Ecosystem
+
 Phần 13: Single Page Application với React-Router
+
 Phần 14: State Management với Redux
+
 Phần 15: Caching với Redis
+
 Phần 16: Chức năng Search dùng ElasticSearch
+
 Phần 17: Monitoring và Logging
+
 Phần 18: Triển khai ứng dụng lên Google Cloud Platform
+
 Phần 19: CI và CD
+
 Phần 20: Scale ứng dụng (phần cuối)
+
 Giới thiệu series
 Chào mừng đến với series hướng dẫn lập trình ứng dụng Web full stack Python. Mục tiêu của loạt bài này là hướng dẫn một stack công nghệ hoàn chỉnh để build ứng dụng Web hiện đại.
 
