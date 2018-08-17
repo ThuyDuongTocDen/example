@@ -1,5 +1,5 @@
 # example
-I want to do this project
+
 Full stack lập trình ứng dụng Web bằng Python phần 1: Giới thiệu
 Đây là phần đầu tiên trong series hướng dẫn lập trình ứng dụng Web gồm 20 phần.
 
